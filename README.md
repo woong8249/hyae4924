@@ -10,14 +10,14 @@
   <img src="https://img.shields.io/static/v1?label&message=HTML5&color=black&logo=HTML5&logoWidth=20"></a>&nbsp
 <img src="https://img.shields.io/static/v1?label&message=CSS&color=blue&logo=CSS3&logoWidth=20"></a>&nbsp
 <img src="https://img.shields.io/static/v1?label&message=Javascript&color=yellow&logo=javascript&logoWidth=20">
+<img src="https://img.shields.io/static/v1?label&message=React&color=grey&logo=react&logoWidth=20">
   <br>
   <br>
 <img src="https://img.shields.io/static/v1?label&message=Node.js&color=green&logo=node.js&logoWidth=20"></a>&nbsp
 <img src="https://img.shields.io/static/v1?label&message=Express&color=green&logo=express&logoWidth=20"></a>&nbsp
-<img src="https://img.shields.io/static/v1?label&message=React&color=grey&logo=react&logoWidth=20">
-<br>
-<br>
 <img src="https://img.shields.io/static/v1?label&message=Mysql&&logo=mysql&&color=indigo&logoWidth=20"></a>&nbsp
+<br>
+<br>
 <img src="https://img.shields.io/static/v1?label&message=AWS&&logo=AmazonAWS&&color=indigo&logoWidth=20">
 </p>
 <br>
